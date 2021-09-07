@@ -15,7 +15,7 @@
     "id": 2,
 	"prioridade": "Alta",
     "descrição": "Fogo em área urbana",
-    "localidade": "Rua b, CABULA"
+    "localidade": "Rua b, CABULA",
 	"órgão": "https://csisssp.000webhostapp.com/CBMBA.png"
 
   },
@@ -24,7 +24,7 @@
     "id": 3,
     "prioridade": "Baixa",
     "descrição": "Pichação em patrimônio público",
-    "localidade": "Condomínio bosque do sol, RIO VERMELHO"
+    "localidade": "Condomínio bosque do sol, RIO VERMELHO",
 	"órgão": "https://csisssp.000webhostapp.com/PC.png"
   }
 ]
